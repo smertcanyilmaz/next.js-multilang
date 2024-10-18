@@ -1,0 +1,24 @@
+{
+  "Homepage": {
+    "title": "Anasayfa",
+    "content": "Anasayfa içeriği",
+    "banner": {
+      "title": "İnovasyon, İşbirliği, Liderlik",
+      "videoTitle": "Tanıtım Videosu",
+      "videoSlider": "Aşağı Kaydırın"
+    },
+    "about": {
+      "title": "Hakkımızda",
+      "subTitle": "Bizi Yakından Tanıyın",
+      "content": "Nihat ÖZTÜZÜN tarafından 60 yıl önce kurulan firmamız, küçük bir torna atölyesi ile hizmet vermeye başlamış, 1981 yılında Nihat ÖZTÜZÜN ünvanının yanına oğullarıda eklenerek limited şirketi olarak hizmet vermeye devam etmiştir.Nihat ÖZTÜZÜN'ün dürüstlük, uzmanlık, ciddilik prensiplerini kendisine ilke edinerek çalışmış ve bu sayede…"
+    }
+  },
+  "About": {
+    "title": "Hakkımızda",
+    "content": "hakkımızda açıklama"
+  },
+  "Contact": {
+    "title": "İletişim",
+    "content": "İletişim açıklama"
+  }
+}

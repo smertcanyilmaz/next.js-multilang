@@ -1,0 +1,24 @@
+{
+  "Homepage": {
+    "title": "Homepage",
+    "content": "Homepage description",
+    "banner": {
+      "title": "Innovation, Collaboration, Leadership",
+      "videoTitle": "Promotional Video",
+      "videoSlider": "Scroll Down"
+    },
+    "about": {
+      "title": "About",
+      "subTitle": "About subtitle",
+      "content": "About description"
+    }
+  },
+  "About": {
+    "title": "About",
+    "content": "About description"
+  },
+  "Contact": {
+    "title": "Contact",
+    "content": "Contact description"
+  }
+}
